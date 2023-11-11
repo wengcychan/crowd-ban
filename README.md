@@ -4,6 +4,8 @@ Crowd Ban is a game where you can direct the crowd movement to prevent over-crow
 
 ## 🎥 Demo
 
+<video src="https://github.com/wengcychan/crowd-ban/assets/47916143/812d250e-c9f0-4675-9382-aeb98da9598e"></video>
+
 🌐 [Play the Game](https://wchan.itch.io/crowd-ban)
 
 ## 📸 Screenshots
